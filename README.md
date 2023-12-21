@@ -30,3 +30,5 @@ class Persona {
     return '$nombre $apellido - Edad: $edad';
   }
 }
+
+![Captura de pantalla 2023-12-21 181107](https://github.com/juanpispablo200/Examen_Parcial1/assets/116582110/5f3058ae-bf6b-4c0f-b953-ed48842b397f)
